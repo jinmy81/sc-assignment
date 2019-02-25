@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div>
+    <p1>Welcome to my system.</p1>
+
+    @using (Html.BeginForm("SignOut", "Account", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        <div class="col-md-offset-4 col-md-8">
+            <input type="submit" value="Sign out" class="btn btn-primary" />
+        </div>
+
+    }
+
+</div>

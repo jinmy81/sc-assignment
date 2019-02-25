@@ -1,0 +1,6 @@
+D:\Assignments\SiteCore\SsoService\SsoService\bin\SsoService.dll.config
+D:\Assignments\SiteCore\SsoService\SsoService\bin\SsoService.dll
+D:\Assignments\SiteCore\SsoService\SsoService\bin\SsoService.pdb
+D:\Assignments\SiteCore\SsoService\SsoService\obj\Debug\SsoService.dll
+D:\Assignments\SiteCore\SsoService\SsoService\obj\Debug\SsoService.pdb
+D:\Assignments\SiteCore\SsoService\SsoService\obj\Debug\SsoService.csprojResolveAssemblyReference.cache

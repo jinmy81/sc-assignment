@@ -1,0 +1,5 @@
+D:\Assignments\SiteCore\SsoService\TestClient\bin\Debug\TestClient.exe.config
+D:\Assignments\SiteCore\SsoService\TestClient\bin\Debug\TestClient.exe
+D:\Assignments\SiteCore\SsoService\TestClient\bin\Debug\TestClient.pdb
+D:\Assignments\SiteCore\SsoService\TestClient\obj\Debug\TestClient.exe
+D:\Assignments\SiteCore\SsoService\TestClient\obj\Debug\TestClient.pdb
